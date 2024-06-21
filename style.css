@@ -1,5 +1,5 @@
 
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -31,9 +31,6 @@ div{
 @media screen and (min-width: 1728px)  {       
 }
 
- {
-    margin: 0;
-}
 header{
     align-items: center;
     padding: 12px;
@@ -85,7 +82,7 @@ ul li{
     padding: 20px;
     text-align: start;
   }
-  .lista-item;:hover{
+  .lista-item:hover{
     background-color: rgb(119, 51, 51);
   }
 }
