@@ -4,15 +4,6 @@
     padding: 0;
 }
 
-header{
-    background-color: darkseagreen;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 10px;
-    list-style-type: none;
-}
-
 section{
     align-items: center;
     background-color: aliceblue;
