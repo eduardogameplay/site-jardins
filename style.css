@@ -50,7 +50,7 @@ ul li{
     color: aliceblue;
 }
 
-a{
+.a{
     color: white;
     text-decoration: none;
 }
@@ -89,7 +89,7 @@ a{
   }
 }
 
-img{
+.img{
     width: 250px;
     height: 250px;
 }
