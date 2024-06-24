@@ -95,4 +95,5 @@ ul li{
     width: 1200px;
     height: 700px;
     align-items: center;
+    grid-template-columns: 50% 50%;
 }
