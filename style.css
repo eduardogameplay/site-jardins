@@ -97,3 +97,8 @@ ul li{
     align-items: center;
     grid-template-columns: 50% 50%;
 }
+
+.posito{
+    width: 250px;
+    height: 90;
+}
